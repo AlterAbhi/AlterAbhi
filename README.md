@@ -2,7 +2,7 @@
 
 
 
-![Snake animation](https://github.com/AlterAbhi/AlterAbhi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlterAbhi/AlterAbhi/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **AlterAbhi/AlterAbhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
